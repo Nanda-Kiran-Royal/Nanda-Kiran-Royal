@@ -11,6 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/Nanda-Kiran-Royal/Nanda-Kiran-Royal/7181f263688135c8747334187e1ffa3a15a77dac/profile-3d-contrib/profile-south-season-animate.svg)
 
 
-
-
-![snake gif](https://github.com/Nanda-Kiran-Royal/Nanda-Kiran-Royal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Nanda-Kiran-Royal/Nanda-Kiran-Royal/blob/output/github-contribution-grid-snake.gif)
